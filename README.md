@@ -1,9 +1,8 @@
 Data Science from Scratch
 =========================
+Clone from https://github.com/joelgrus/data-science-from-scratch. For my study.
 
-Here's all the code and examples from the second edition of my book _Data Science from Scratch_. They require at least Python 3.6.
-
-(If you're looking for the code and examples from the first edition, that's in the `first-edition` folder.)
+The code and examples from the second edition of book _Data Science from Scratch_. They require at least Python 3.6.
 
 If you want to use the code, you should be able to clone the repo and just do things like
 
